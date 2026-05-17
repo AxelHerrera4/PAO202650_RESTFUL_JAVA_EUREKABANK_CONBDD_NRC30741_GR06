@@ -1,0 +1,7 @@
+# Para tus proyectos en Java
+**/target/
+*.class
+
+# Para proyectos web (React, Next.js, NestJS)
+**/node_modules/
+.env
